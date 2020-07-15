@@ -1,0 +1,117 @@
+p {
+    margin: 32px;
+    font-size: 3em;
+    font-family: CSClarity;
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-thin.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-thin.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-thin.ttf) format("ttf");
+    font-weight: 100;
+    font-style: normal
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-thin-italic.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-thin-italic.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-thin-italic.ttf) format("ttf");
+    font-weight: 100;
+    font-style: italic
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-light.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-light.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-light.ttf) format("ttf");
+    font-weight: 200;
+    font-style: normal
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-light-italic.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-light-italic.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-light-italic.ttf) format("ttf");
+    font-weight: 200;
+    font-style: italic
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-book.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-book.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-book.ttf) format("ttf");
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-book-italic.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-book-italic.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-book-italic.ttf) format("ttf");
+    font-weight: 300;
+    font-style: italic
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-regular.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-regular.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-regular.ttf) format("ttf");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-regular-italic.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-regular-italic.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-regular-italic.ttf) format("ttf");
+    font-weight: 400;
+    font-style: italic
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-medium.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-medium.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-medium.ttf) format("ttf");
+    font-weight: 500;
+    font-style: normal
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-medium-italic.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-medium-italic.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-medium-italic.ttf) format("ttf");
+    font-weight: 500;
+    font-style: italic
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-bold.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-bold.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-bold.ttf) format("ttf");
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-bold-italic.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-bold-italic.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-bold-italic.ttf) format("ttf");
+    font-weight: 700;
+    font-style: italic
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-black.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-black.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-black.ttf) format("ttf");
+    font-weight: 900;
+    font-style: normal
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: CSClarity;
+    src: url(../../../global/fonts/cs-clarity/cs-clarity-black-italic.woff2) format("woff2"), url(../../../global/fonts/cs-clarity/cs-clarity-black-italic.woff) format("woff"), url(../../../global/fonts/cs-clarity/cs-clarity-black-italic.ttf) format("ttf");
+    font-weight: 900;
+    font-style: italic
+}
